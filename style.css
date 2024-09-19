@@ -101,6 +101,12 @@ main img {
     justify-content: center;
 }
 
+.container-right aside {
+    height: 30%;
+    width: 100%;
+    background-color: aquamarine;
+}
+
 ol li {
     overflow: visible;
 }
