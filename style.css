@@ -14,6 +14,19 @@ body, html {
     float: left;
 }
 
+.stripe {
+    height: 100%;
+    width: 5%;
+    float: left;
+    border: 1px solid black;
+}
+
+.container-right {
+    height: 100%;
+    width: 25%;
+    float: left;
+}
+
 header {
     background-color: aqua;
     width: 100%;
@@ -21,13 +34,6 @@ header {
     display: flex;
     align-items: center;
     justify-content: flex-end;
-}
-
-
-.container-right {
-    height: 100%;
-    width: 30%;
-    float: left;
 }
 
 nav {
